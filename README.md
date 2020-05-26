@@ -1,7 +1,7 @@
 # Assembly-Introduction
 Intro to Assembly
 
-This contains a given condition to test undertanding of PIC18 Assembly Language 
+This contains a given condition to test undertanding of PIC18 Assembly Language schematic and developement board provided by instuctor.
  
 ```
 1) Use the two switches connected to PORT A bits 1 and 0 as inputs. 
