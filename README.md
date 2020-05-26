@@ -1,8 +1,8 @@
 # Assembly-Introduction
 Intro to Assembly
-This wil contain 5 varying conditons, in order to understand assembly.
 
-Part 5/ Part E 
+This contains a given condition to test undertanding of PIC18 Assembly Language 
+ 
 ```
 1) Use the two switches connected to PORT A bits 1 and 0 as inputs. 
 2) Based on those two inputs, make the LED D2 blink ON and OFF with the color and frequency as indicated on the table below. 
